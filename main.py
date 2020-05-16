@@ -12,7 +12,7 @@ form = """
     <head>
         <style>
             form {{
-                background-color: #eee;
+                background-color: #6a37;
                 padding: 20px;
                 margin: 0 auto;
                 width: 540px;
